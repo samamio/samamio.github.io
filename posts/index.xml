@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on mio space</title>
     <link>https://samamio.github.io/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on mio space</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <copyright>miosama</copyright>
+    <lastBuildDate>Mon, 29 Jul 2024 23:33:20 +0800</lastBuildDate>
     <atom:link href="https://samamio.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于内容和时间的简单思考</title>
+      <link>https://samamio.github.io/posts/%E5%85%B3%E4%BA%8E%E5%86%85%E5%AE%B9%E5%92%8C%E6%97%B6%E9%97%B4%E7%9A%84%E7%AE%80%E5%8D%95%E6%80%9D%E8%80%83/</link>
+      <pubDate>Mon, 29 Jul 2024 23:33:20 +0800</pubDate>
+      <guid>https://samamio.github.io/posts/%E5%85%B3%E4%BA%8E%E5%86%85%E5%AE%B9%E5%92%8C%E6%97%B6%E9%97%B4%E7%9A%84%E7%AE%80%E5%8D%95%E6%80%9D%E8%80%83/</guid>
+      <description>内容形态的进化，即为在单位时间内信息获取效率的提升</description>
+    </item>
+    <item>
+      <title>关于闲鱼的一些思考</title>
+      <link>https://samamio.github.io/posts/%E5%85%B3%E4%BA%8E%E9%97%B2%E9%B1%BC%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</link>
+      <pubDate>Mon, 29 Jul 2024 23:30:42 +0800</pubDate>
+      <guid>https://samamio.github.io/posts/%E5%85%B3%E4%BA%8E%E9%97%B2%E9%B1%BC%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</guid>
+      <description>看了个闲鱼的分析帖，简单做一些补充，尤其是和【兼职】进行对比。</description>
+    </item>
   </channel>
 </rss>
