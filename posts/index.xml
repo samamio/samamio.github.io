@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on mio space</title>
-    <link>https://samamio.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on mio space</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>miosama</copyright>
     <lastBuildDate>Mon, 29 Jul 2024 23:30:42 +0800</lastBuildDate>
-    <atom:link href="https://samamio.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于闲鱼的一些思考</title>
-      <link>https://samamio.github.io/posts/%E5%85%B3%E4%BA%8E%E9%97%B2%E9%B1%BC%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</link>
+      <link>http://localhost:1313/posts/%E5%85%B3%E4%BA%8E%E9%97%B2%E9%B1%BC%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</link>
       <pubDate>Mon, 29 Jul 2024 23:30:42 +0800</pubDate>
-      <guid>https://samamio.github.io/posts/%E5%85%B3%E4%BA%8E%E9%97%B2%E9%B1%BC%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</guid>
+      <guid>http://localhost:1313/posts/%E5%85%B3%E4%BA%8E%E9%97%B2%E9%B1%BC%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</guid>
       <description>看了个闲鱼的分析帖，简单做一些补充，尤其是和【兼职】进行对比。</description>
     </item>
     <item>
       <title>关于内容和时间的简单思考</title>
-      <link>https://samamio.github.io/posts/%E5%85%B3%E4%BA%8E%E5%86%85%E5%AE%B9%E5%92%8C%E6%97%B6%E9%97%B4%E7%9A%84%E7%AE%80%E5%8D%95%E6%80%9D%E8%80%83/</link>
+      <link>http://localhost:1313/posts/%E5%85%B3%E4%BA%8E%E5%86%85%E5%AE%B9%E5%92%8C%E6%97%B6%E9%97%B4%E7%9A%84%E7%AE%80%E5%8D%95%E6%80%9D%E8%80%83/</link>
       <pubDate>Thu, 11 Jul 2024 23:33:20 +0800</pubDate>
-      <guid>https://samamio.github.io/posts/%E5%85%B3%E4%BA%8E%E5%86%85%E5%AE%B9%E5%92%8C%E6%97%B6%E9%97%B4%E7%9A%84%E7%AE%80%E5%8D%95%E6%80%9D%E8%80%83/</guid>
+      <guid>http://localhost:1313/posts/%E5%85%B3%E4%BA%8E%E5%86%85%E5%AE%B9%E5%92%8C%E6%97%B6%E9%97%B4%E7%9A%84%E7%AE%80%E5%8D%95%E6%80%9D%E8%80%83/</guid>
       <description>内容形态的进化，即为在单位时间内信息获取效率的提升</description>
     </item>
     <item>
       <title>AI 创作：他们似乎在玩一种很新的东西</title>
-      <link>https://samamio.github.io/posts/ai-%E5%88%9B%E4%BD%9C%E4%BB%96%E4%BB%AC%E4%BC%BC%E4%B9%8E%E5%9C%A8%E7%8E%A9%E4%B8%80%E7%A7%8D%E5%BE%88%E6%96%B0%E7%9A%84%E4%B8%9C%E8%A5%BF/</link>
+      <link>http://localhost:1313/posts/ai-%E5%88%9B%E4%BD%9C%E4%BB%96%E4%BB%AC%E4%BC%BC%E4%B9%8E%E5%9C%A8%E7%8E%A9%E4%B8%80%E7%A7%8D%E5%BE%88%E6%96%B0%E7%9A%84%E4%B8%9C%E8%A5%BF/</link>
       <pubDate>Fri, 21 Jun 2024 23:30:42 +0800</pubDate>
-      <guid>https://samamio.github.io/posts/ai-%E5%88%9B%E4%BD%9C%E4%BB%96%E4%BB%AC%E4%BC%BC%E4%B9%8E%E5%9C%A8%E7%8E%A9%E4%B8%80%E7%A7%8D%E5%BE%88%E6%96%B0%E7%9A%84%E4%B8%9C%E8%A5%BF/</guid>
+      <guid>http://localhost:1313/posts/ai-%E5%88%9B%E4%BD%9C%E4%BB%96%E4%BB%AC%E4%BC%BC%E4%B9%8E%E5%9C%A8%E7%8E%A9%E4%B8%80%E7%A7%8D%E5%BE%88%E6%96%B0%E7%9A%84%E4%B8%9C%E8%A5%BF/</guid>
       <description>内容领域的 AI 应用并不是今年才出现，比如文字领域很早就有 AI 写作等服务，但它确实是近几个月最热门的科技话题之一。如果你稍微关注一下内容或者设计领域，一定会看到诸如 DALL-E 2 或者 MidJourney 的字眼，并且往往会伴随「颠覆行业」「替代设计」等评价。</description>
     </item>
   </channel>
